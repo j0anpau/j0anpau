@@ -11,13 +11,9 @@ I want to learn Kotlin,
 
 - ⚡ Fun fact: I spend almost the entire day listening songs 🎶
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,mysql,bash,r,mongodb,matlab,linux,gitlab,git,docker,aws,azure,arduino)](https://skillicons.dev)
 
 
-py,pytorch,tensorflow,mysql,bash,r,mongodb,matlab,linux,gitlab,git,docker,aws,azure,arduino
 
-
-py,pytorch,tensorflow,mysql,bash,r,mongodb,matlab,linux,gitlab,git,docker,aws,azure,arduino
 
