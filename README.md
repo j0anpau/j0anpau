@@ -13,4 +13,11 @@ I want to learn Kotlin,
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,mysql,bash,r,mongodb,matlab,linux,gitlab,git,docker,aws,azure,arduino)](https://skillicons.dev)
+
+
+py,pytorch,tensorflow,mysql,bash,r,mongodb,matlab,linux,gitlab,git,docker,aws,azure,arduino
+
+
+py,pytorch,tensorflow,mysql,bash,r,mongodb,matlab,linux,gitlab,git,docker,aws,azure,arduino
 
