@@ -7,8 +7,6 @@
 
 - 📫 How to reach me: www.linkedin.com/in/joan-pau/ | Twitter: @J0anpau 
 
-I want to learn Kotlin, 
-
 - ⚡ Fun fact: I spend almost the entire day listening songs 🎶
 
 
