@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on studying 2 máster in Big Data and another in Biomedical Data Science 
 
-- 🌱 I’m currently learning Big Data and Data Science tools like Spark, Hadoop, Python, Machine Learning, Deep Learning 
+- 🌱 I’m currently learning Big Data and Data Science tools such Spark, Hadoop, Python, Machine Learning, Deep Learning 
 
 - 📫 How to reach me: www.linkedin.com/in/joan-pau/ | Twitter: @J0anpau 
 
