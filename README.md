@@ -1,7 +1,7 @@
    Hi 👋 I'm Joan Pau !
 
 
-- 🔭 I’m currently working on studying 2 máster in Big Data and another in Biomedical Data Science 
+- 🔭 I’m currently working on studying 2 MSc in Big Data and another in Biomedical Data Science 
 
 - 🌱 I’m currently learning Big Data and Data Science tools such Spark, Hadoop, Python, Machine Learning, Deep Learning 
 
