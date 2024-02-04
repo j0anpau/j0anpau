@@ -1,9 +1,9 @@
-   Hi 👋 I'm Joan Pau !
+Hi 👋 I'm Joan Pau !
 
 
-- 🔭 I’m currently working on studying 2 MSc in Big Data and another in Biomedical Data Science 
+- 🔭 Did 2 MSc in Big Data and another in Data Science. 
 
-- 🌱 I’m currently learning Big Data and Data Science tools such Spark, Hadoop, Python, Machine Learning, Deep Learning 
+- 🌱 I am currently applying and learning data in projects, and implementing these breakthroughs in research and innovative business models.
 
 - 📫 How to reach me: www.linkedin.com/in/joan-pau
 
