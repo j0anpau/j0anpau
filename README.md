@@ -1,10 +1,5 @@
 Hi 👋 I'm Joan Pau !
 
-
-- 🔭 Did 2 MSc in Big Data and another in Data Science. 
-
-- 🌱 I am currently applying and learning data in projects, and implementing these breakthroughs in research and innovative business models.
-
 - 📫 How to reach me: www.linkedin.com/in/joan-pau
 
 
