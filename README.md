@@ -3,6 +3,7 @@
 - 📫 How to reach me: www.linkedin.com/in/joan-pau
 
 My stack:
+
 [![My Skills](https://skillicons.dev/icons?i=py,aws,figma,html,css,git,docker,pytorch,tensorflow,postgres,mysql)](https://skillicons.dev)
 
 Currently doing projects to learn: 
