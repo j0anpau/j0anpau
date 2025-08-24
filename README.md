@@ -1,4 +1,4 @@
-# Hi There 👋 I'm Joan Pau!
+# Hi There 👋 I'm Pau!
 
 - 📫 How to reach me: www.linkedin.com/in/joan-pau
 
