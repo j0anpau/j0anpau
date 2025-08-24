@@ -4,7 +4,7 @@
 
 My stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,aws,figma,html,docker,pytorch,tensorflow,kafka,postgres,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,postgres,mysql,mongodb,aws,figma,html,docker,pytorch,tensorflow,kafka,git,github)](https://skillicons.dev)
 
 Currently doing projects to learn: 
 
